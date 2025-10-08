@@ -1,11 +1,3 @@
-Perfect 👍 Let’s create a **README.md** file that you can paste directly into your Google IDX project.
-
-Before I finalize it — please confirm:
-➡️ Do you want the README for an **E-Learning App (LearnSmart)** or **Job Portal (AutoHire)** — or another idea you have in mind?
-
-If you haven’t decided yet, here’s a ready-to-use **E-Learning App (LearnSmart)** README example below — you can change it later easily 👇
-
----
 
  📘 README.md — *LearnSmart: E-Learning App*
 
@@ -99,7 +91,7 @@ README.md
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/yourusername/learnsmart.git
+   git clone https://github.com/sabzgunbad3/Weak1-LearnSmart.git
    cd learnsmart
    ```
 2. Install dependencies
