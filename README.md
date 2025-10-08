@@ -120,6 +120,3 @@ README.md
 🔜 Week 2: UI screen development begins.
 
 ---
-
-Would you like me to tailor this same README for your **Job Portal app idea** instead?
-(I can rewrite the purpose, features, and flow in that context.)
